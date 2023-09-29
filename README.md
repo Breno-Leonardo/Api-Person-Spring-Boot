@@ -53,6 +53,6 @@ Documentação disponível em: http://localhost:8081/swagger-ui/index.html#/
 
 Console banco H2 disponível em: http://localhost:8081/h2-console
 
-O projeto foi relizando respeitando todos os requesitos definidos. 
+O projeto foi relizando respeitando todos os requesitos definidos, foram realizados testes para service, controller e repository. 
 
 
